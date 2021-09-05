@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/ObjectPositioner.qml</file>
+        <file>qml/SplitFlap.qml</file>
+        <file>qml/SplitFlapBoard.qml</file>
+        <file>qml/Tile.qml</file>
+        <file>qml/SplitTile.qml</file>
+    </qresource>
+</RCC>

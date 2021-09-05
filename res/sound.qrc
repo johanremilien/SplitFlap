@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/hand_clap.wav</file>
+    </qresource>
+</RCC>

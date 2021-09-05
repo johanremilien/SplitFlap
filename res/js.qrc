@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/Easy.js</file>
+    </qresource>
+</RCC>
